@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mycuda
+Version: 1.0
+Summary: first try of cuda
+Author: Sparsity
+Author-email: Zysun2002@163.com
+
+a tiny cuda program learnt from youtube
